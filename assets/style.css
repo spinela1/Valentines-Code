@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: rosybrown;
+    font-size: 50px;
+}
+.css {
+    color: lightsalmon;
+    font-size: 50px;
+}
+.html {
+    color: palevioletred;
+    font-size: 50px;
+}
+
+section {
+    background-color: lavenderblush;
+    width: 48%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: palevioletred;
+}
